@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Richard (aka Koko)</h1>
+<h1 align="center">Hi 👋, I'm Richard</h1>
 <h3 align="center">Mechatronics Engineering Student | Software Developer | Hardware & AI Tinkerer</h3>
 
 <p align="center">
