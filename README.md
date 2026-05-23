@@ -66,6 +66,7 @@ Leading a multidisciplinary student engineering team. Research, design, and fabr
 🔗 **LinkedIn:** [linkedin.com/in/enegbuma-richard](https://linkedin.com/in/enegbuma-richard-97b2b13a4)  
 📝 **Dev.to:** [dev.to/richard.dev](https://dev.to/cyril2007richard))  
 💻 **GitHub:** [@cyril2007-richard](https://github.com/cyril2007-richard)
+**VHORDE** [Richard .O Enegbuma](https://www.vhorde.com/richard)
 
 ---
 
