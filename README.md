@@ -1,83 +1,31 @@
-# Enegbuma Richard
+<p align="center">
+  <a href="https://github.com/cyril2007-richard">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=666&text=Hello!%20I'm%20Richard" alt="Hello! I&#39;m Richard" />
+  </a>
+</p>
 
-**Mechatronics Engineer & Full-Stack Developer** | Edge AI · Computer Vision · Hardware Integration
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=900&height=44&lines=CTO%20and%20Head%20of%20R%26D%20at%20Vhorde%20Technologies%2C%20building%20IRIS%20%E2%80%94%20AI-powered%20assistive%20tech%20restoring%20independence." alt="Typing headlines" />
+</p>
 
-Building systems that bridge physical and digital environments. Currently focused on real-time embedded AI, wearable hardware, and scalable full-stack architectures.
+### 📊 GitHub Stats
 
----
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=cyril2007-richard&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=cyril2007-richard&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
 
-## What I Do
+### 📈 Contribution Graph
 
-I work at the intersection of hardware, embedded systems, and software. My focus is on:
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cyril2007-richard&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
 
-- **Edge AI & Computer Vision** — Real-time inference on constrained hardware (Jetson, Raspberry Pi, microcontrollers)
-- **Full-Stack Development** — TypeScript, Next.js, React Native, scalable backend architecture
-- **Embedded & Mechatronics** — PCB design, hardware integration, robotics systems, IoT
-- **Systems & Infrastructure** — Linux, C++, real-time systems, low-latency pipelines
+### 💭 Dev Quote
 
-Currently building an **AI-powered assistive wearable** with on-device computer vision, custom hardware, and real-world deployment in Nigeria.
-
----
-
-## Featured Work
-
-### IRIS — Assistive Wearable (In Development)
-Real-time computer vision for visual assistance. Custom hardware integration, edge AI inference, haptic feedback. *Proprietary — details available upon request.*
-
-### UniMart — Logistics & E-Commerce Platform
-Full-stack TypeScript / Next.js platform. Complex routing logic, escrow systems, real-time rider dispatch. Handling scale from day one.
-
-### EV HUD Telemetry System
-Custom electric vehicle dashboard built in C++ with OpenGL. Real-time data visualization and telemetry translation at low latency.
-
-### Team Vhorde — Mechatronics Research Group
-Leading a multidisciplinary student engineering team. Research, design, and fabrication of advanced mechatronic systems.
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
 
 ---
-
-## Tech Stack
-
-**Languages:** TypeScript · C++ · Python · JavaScript
-
-**Web & Mobile:** Next.js · React Native · Node.js/Express · Tailwind CSS · REST APIs
-
-**AI & Vision:** YOLO · NCNN · OpenVINO · Computer Vision · Edge Inference
-
-**Embedded & Hardware:** ESP32 · Raspberry Pi 5 · NVIDIA Jetson · ROS · IoT Protocols · PCB Design
-
-**Systems:** Linux (Debian/Arch) · OpenGL · Dear ImGui · SQL
-
-**Design & CAD:** SolidWorks · Fusion 360 · Blender · UI/UX Architecture
-
----
-
-## Current Focus
-
-- Optimizing edge AI models for real-time inference on constrained hardware
-- Full-stack product development for logistics and e-commerce
-- Bridging the gap between hardware design and software execution
-- Building for Nigerian market constraints and infrastructure realities
-
----
-
-## Where to Find Me
-
-📧 **Email:** [cyrilemmanuel2707@gmail.com] 
-🔗 **LinkedIn:** [linkedin.com/in/enegbuma-richard](https://linkedin.com/in/enegbuma-richard-97b2b13a4)  
-📝 **Dev.to:** [dev.to/richard.dev](https://dev.to/cyril2007richard))  
-💻 **GitHub:** [@cyril2007-richard](https://github.com/cyril2007-richard)
-**VHORDE** [Richard .O Enegbuma](https://www.vhorde.com/richard)
-
----
-
-## Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cyril2007-richard&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyril2007-richard&theme=dark" alt="Contribution Streak" />
-</div>
-
----
-
-**Interested in collaborating?** Reach out if you're building at the hardware-software boundary or need someone who can own a project end-to-end.
+<p align="center"><i>⭐️ From <a href="https://github.com/cyril2007-richard">cyril2007-richard</a></i></p>
